@@ -1,0 +1,323 @@
+  /* Header-wraper-css */
+  .d-flex {
+      display: flex;
+  }
+
+  .bg-color {
+      background-color: aliceblue;
+  }
+
+  .jc-sb {
+      justify-content: space-between;
+  }
+
+  .d-inlineblock {
+      display: inline-block;
+  }
+
+  .l-style-none {
+      list-style: none;
+  }
+
+  .h-l-p {
+      padding: 10px;
+  }
+
+  .t-d-none {
+      text-decoration: none;
+  }
+
+  .colr-left-s {
+      color: rgba(0, 0, 0, 0.55);
+  }
+
+  .right-table-padding {
+      padding: 25px;
+  }
+
+  .alignitem-center {
+      align-items: center;
+  }
+
+  .h-r-p {
+      padding-left: 25px;
+  }
+
+  .postion-relative {
+      position: relative;
+  }
+
+  .h-r-table-paddings {
+      border-left: 25px;
+      margin-left: 20px;
+      margin-right: 40px;
+  }
+
+  .position-a {
+      position: absolute;
+  }
+
+  .search-p {
+      left: 12px;
+      top: 3px;
+  }
+
+  .input-type-borderradius {
+      border-radius: 40px;
+      outline: 0px;
+      border: solid 1px;
+      padding-left: 35px;
+  }
+
+  .h-r-bags-user {
+      padding-right: 20px;
+  }
+
+  /* content-wraper-css */
+  .image-w {
+      width: 100%;
+  }
+
+  .content-area-p {
+      top: 2px;
+      left: 65px;
+  }
+
+  .opporeno-styles {
+      font-size: 50px;
+      color: rgb(40, 29, 29);
+  }
+
+  .theportraitarea-styles {
+      font-size: 25px;
+      position: absolute;
+      top: 85px;
+      color: rgb(59, 56, 56);
+  }
+
+  .c-a-3-d-s {
+      top: 250px;
+      left: 65px;
+  }
+
+  .d-3-32-s {
+      color: rgb(89, 92, 94);
+  }
+
+  .d-3-buynow-styles {
+      padding-left: 25px;
+      padding-right: 20px;
+      padding: 7px 12px;
+      border-radius: 30px;
+      background-color: black;
+      color: white;
+  }
+
+  .learnmore-styles {
+      padding-left: 20px;
+      padding-right: 10px;
+      padding: 7px 12px;
+      border-radius: 30px;
+      background-color: white;
+      color: black;
+      font-weight: 10px;
+  }
+
+  .d-styles {
+      top: 1px;
+      left: 65px;
+  }
+
+  .h4-style {
+      font-size: 50px;
+      color: #1f1a1a80;
+      color: white;
+  }
+
+  .h4-2-styles {
+      font-size: 28px;
+      color: rgb(40, 29, 29);
+      color: white;
+      position: absolute;
+      top: 85px;
+  }
+
+  .content-ps-d {
+      top: 180px;
+      left: 65px;
+  }
+
+  .h5-style {
+      color: rgb(89, 92, 94);
+      font-size: 25px;
+  }
+
+  .h5-2-styles {
+      color: rgb(89, 92, 94);
+      font-size: 15px;
+      position: absolute;
+      top: 43px;
+  }
+
+  .learnmore-styles {
+      padding-left: 20px;
+      padding-right: 10px;
+      padding: 7px 12px;
+      border-radius: 30px;
+      background-color: white;
+      color: black;
+      font-weight: 10px;
+  }
+
+  .d-f-s-b {
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .div-style {
+      bottom: 20px;
+      left: 75px;
+      background-color: #cdf4d0;
+      border-radius: 2px;
+      height: 35%;
+      width: 17%;
+  }
+
+  .view more {
+      padding-left: 60px;
+      padding-top: 60px;
+      padding-bottom: 18px;
+      font-size: 30px;
+      text-decoration: none;
+  }
+
+  .viemore {
+      padding-right: 93px;
+      padding-top: 60px;
+      padding-bottom: 18px;
+      text-decoration: none;
+  }
+
+  .viewmoreproducts {
+      color: rgb(90, 98, 105);
+      text-decoration: none;
+      font-size: 20px;
+  }
+
+  .opporeno {
+      position: absolute;
+      margin-top: 15px;
+      left: 80px;
+      font-size: 35px;
+  }
+
+  .oppo-reno {
+      width: 90%;
+      padding-left: 60px;
+  }
+
+  .fist-1-box {
+      display: flex;
+      position: absolute;
+      justify-content: right;
+  }
+
+  .first-box-style {
+      padding-left: 12px;
+      text-decoration: none;
+      color: black;
+  }
+
+  .second-box-style {
+      display: flex;
+      justify-content: space-between;
+      padding: 1px 58px 0px;
+      margin-right: 22px;
+      position: relative;
+  }
+
+  .second-box-inside-div {
+      background-color: #f6f6f6;
+      margin: 1px;
+      position: relative;
+  }
+
+  .second-box-img-style {
+      width: 48%;
+      padding-left: 300px;
+  }
+
+  .second-box-h2 {
+      position: absolute;
+      top: 1px;
+      left: 30px;
+      font-size: 35px;
+  }
+
+  .second-box-2-div {
+      position: absolute;
+      bottom: 20px;
+      left: 15px;
+      background-color: #efede9;
+      border-radius: 2px;
+      height: 40%;
+      width: 37%;
+  }
+
+  .second-box-p {
+      padding: 15px;
+      font-style: normal;
+  }
+
+  .second-box-buy {
+      display: flex;
+      position: absolute;
+      justify-content: right;
+      top: 100px;
+  }
+
+  .second-box-more {
+      padding-left: 8px;
+      text-decoration: none;
+      color: black;
+  }
+
+  .third-box-style {
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 58px 0px;
+    margin-right: 22px;
+    position: relative;
+}
+
+.third-box-div {
+    background-color: #f6f6f6;
+    margin: 1px;
+    position: relative;
+}
+
+.third-box-img {
+    width: 48%;
+    padding-left: 300px;
+}
+
+.third-box-h {
+    position: absolute;
+    top: 1px;
+    left: 30px;
+    font-size: 35px;
+}
+
+.third-box-div {
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    background-color: #efede9;
+    border-radius: 2px;
+    height: 33%;
+    width: 37%;
+}
+
+.p-style{
+    padding: 10px; font-style: normal;
+}
